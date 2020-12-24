@@ -1,1 +1,1 @@
-Eric Riese's potential new home page
+Demonstrates how to make an extremely easy basic website
